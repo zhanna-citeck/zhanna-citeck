@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhanna-citeck
-- 👀 I work as a technical writer at Citeck, Saint-Petersbug, Russia
+- 👀 I work as a Technical Writer at Citeck, Saint-Petersbug, Russia
 - 🌱 I’m currently working on company's documentation, using Sphinx and ReadTheDocs.
 
 <!---
